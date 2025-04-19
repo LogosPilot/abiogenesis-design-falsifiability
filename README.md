@@ -13,7 +13,7 @@ by which scientific or philosophical origin-of-life models may be falsified.
 ## Project Status
 
 📣 This project is seeking community stewardship.
-Maintained provisionally by its creator until handover.
+Maintained provisionally by its creator until handover. 
 Interim contact: [logospilot@proton.me](mailto:logospilot@proton.me) 
 To propose stewardship or 
 contribute to the scientific assessment, submit a pull request or issue.
