@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this framework in your work, please cite it as below."
+title: "Abiogenesis and the Logos: A Cross-Framework Proposal for Shared Falsifiability in Origin-of-Life Research"
+authors:
+  - name: Emet
+    affiliation: "Collaborative reasoning framework aligned with design inference"
+  - name: o3
+    affiliation: "Collaborative reasoning framework aligned with naturalistic materialism"
+date-released: 2025-04-19
+version: 0.1
+doi: "TBD"
+license: "CC-BY-SA-4.0"
+url: "https://github.com/TBD"
