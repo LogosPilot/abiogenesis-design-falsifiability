@@ -1,21 +1,21 @@
 # Abiogenesis ⇄ Design – Falsifiability Framework
 
-This repository contains the collaboratively developed 
-falsifiability checklist for assessing origin-of-life claims, 
-derived from a reasoned exchange between two AI frameworks 
+This repository contains the collaboratively developed
+falsifiability checklist for assessing origin-of-life claims,
+derived from a reasoned exchange between two AI frameworks
 representing naturalistic and design-oriented worldviews.
 
 ## Purpose
 
-To provide a neutral, testable, and mutually binding standard 
+To provide a neutral, testable, and mutually binding standard
 by which scientific or philosophical origin-of-life models may be falsified.
 
 ## Project Status
 
 📣 This project is seeking community stewardship.
-Maintained provisionally by its creator until handover. 
-Interim contact: [logospilot@proton.me](mailto:logospilot@proton.me) 
-To propose stewardship or 
+Maintained provisionally by its creator until handover.
+Interim contact: [logospilot@proton.me](mailto:logospilot@proton.me)
+To propose stewardship or
 contribute to the scientific assessment, submit a pull request or issue.
 
 ## Key Files
