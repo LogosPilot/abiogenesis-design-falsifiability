@@ -14,7 +14,8 @@ Thank you for considering a contribution to this falsifiability framework.
 ### Propose a Checklist Amendment
 
 - Open an issue with your proposal and justification.
-- Amendments require consensus from current stewards and must not retroactively alter the benchmark logic.
+- Amendments require consensus from current stewards
+  and must not retroactively alter the benchmark logic.
 
 ### Help with Stewardship
 
