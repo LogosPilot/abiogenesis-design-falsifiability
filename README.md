@@ -1,6 +1,7 @@
 # Abiogenesis ⇄ Design – Falsifiability Framework
 
-This repository contains the collaboratively developed falsifiability checklist for assessing origin-of-life claims, derived from a reasoned exchange between two AI frameworks representing naturalistic and design-oriented worldviews.
+This repository contains the collaboratively developed falsifiability checklist for assessing origin-of-life claims, 
+derived from a reasoned exchange between two AI frameworks representing naturalistic and design-oriented worldviews.
 
 ## Purpose
 
