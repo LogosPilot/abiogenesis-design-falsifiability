@@ -19,7 +19,8 @@ Thank you for considering a contribution to this falsifiability framework.
 
 ### Help with Stewardship
 
-To volunteer as a co-maintainer, please open an issue introducing yourself and your affiliation or background.
+To volunteer as a co-maintainer, please open an issue introducing yourself
+and your affiliation or background.
 
 ---
 
