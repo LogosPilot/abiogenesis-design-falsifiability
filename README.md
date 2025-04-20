@@ -5,7 +5,6 @@ falsifiability checklist for assessing origin-of-life claims,
 derived from a reasoned exchange between two AI frameworks
 representing naturalistic and design-oriented worldviews.
 
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15250027.svg)](https://doi.org/10.5281/zenodo.15250027)
 
 📘 **DOI**: [10.5281/zenodo.15250027](https://doi.org/10.5281/zenodo.15250027)  
