@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.6
+
+- Registered DOI via Zenodo: [10.5281/zenodo.15250027](https://doi.org/10.5281/zenodo.15250027)
+
 ## v0.2 – 2025-04-20
 
 - Inserted final manuscript into `Manuscript_v1.txt`
